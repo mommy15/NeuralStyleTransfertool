@@ -29,7 +29,7 @@ This is a full-stack web application that allows users to perform Neural Style T
 
 ### 1. Clone the Repository
 
-git clone [https://github.com/mommy15/neural-style-transfer-webapp.git](https://github.com/mommy15/neural-style-transfer-webapp)
+git clone [https://github.com/mommy15/NeuralStyleTransfertool]
 cd neural-style-transfer-webapp
 
 ### 2. Setup Backend
