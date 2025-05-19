@@ -4,7 +4,7 @@ This is a full-stack web application that allows users to perform Neural Style T
 
 ---
 
-## 🚀 Features
+## Features
 
 - User authentication with email and password
 - Upload content and style images
@@ -15,7 +15,7 @@ This is a full-stack web application that allows users to perform Neural Style T
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 - **Frontend:** React.js, Bootstrap
 - **Backend:** Flask
@@ -25,7 +25,7 @@ This is a full-stack web application that allows users to perform Neural Style T
 
 ---
 
-## 🔧 Installation
+## Installation
 
 ### 1. Clone the Repository
 
